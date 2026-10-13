@@ -1,5 +1,3 @@
-# Photoshop-Font-Fix
-Photoshop 字体不识别一键修复工具
 ﻿Photoshop 字体不识别修复脚本（Windows 10 / Windows 11）
 
 使用：
